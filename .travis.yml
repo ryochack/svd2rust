@@ -76,7 +76,7 @@ branches:
   only:
     - staging
     - trying
-    - utf8-bom
+    - travis-test-bom
 
 notifications:
   email:
