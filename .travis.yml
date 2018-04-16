@@ -76,6 +76,7 @@ branches:
   only:
     - staging
     - trying
+    - utf8-bom
 
 notifications:
   email:
