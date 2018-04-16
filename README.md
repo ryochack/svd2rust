@@ -3,6 +3,7 @@
 
 # `svd2rust`
 
+
 > Generate Rust register maps (`struct`s) from SVD files
 
 # [Documentation](https://docs.rs/svd2rust)
