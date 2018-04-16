@@ -76,6 +76,7 @@ branches:
   only:
     - staging
     - trying
+    - travis-test
 
 notifications:
   email:
