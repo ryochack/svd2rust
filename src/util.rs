@@ -1,10 +1,10 @@
 use std::borrow::Cow;
 
+use either::Either;
 use inflections::Inflect;
+use quote::Tokens;
 use svd::{Access, Cluster, Register};
 use syn::Ident;
-use quote::Tokens;
-use either::Either;
 
 use errors::*;
 
